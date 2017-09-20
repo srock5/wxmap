@@ -1,0 +1,75 @@
+* {
+  /*border: 1px solid black; */
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+.logo {
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index:1000;
+  width: 15%;
+  height: 50px;
+  background-color: #FF0;
+}
+
+.titlebar {
+  top: 0;
+  right: 0;
+  position: fixed;
+  width: 85%;
+  height: 50px;
+  background-color: #F0F;
+  font-family: 'Cabin', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.titlebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.titlebar li {
+  vertical-align: middle;
+  line-height: 50px;
+  padding: 0px 5px;
+  /*padding: 0px;
+  margin: 5px 10px;*/
+  display: inline-block;
+  border-right-width: 1px;
+  border-right-color: black;
+  border-right-style: solid;
+  border-left-width: 1px;
+  border-left-color: black;
+  border-left-style: solid;
+}
+
+.titlebar a {
+  text-decoration: none;
+}
+
+.titlebar a:hover {
+  text-decoration: underline;
+}
+
+
+.sidebar {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 15%;
+  background-color: #E00;
+}
+
+.main {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  width: 85%;
+}
+
+/* !!!! Cabin condensed for side bar, cabin for most things, lato for text !!! */
