@@ -1,22 +1,21 @@
 * {
   /*border: 1px solid black; */
   box-sizing: border-box;
-  padding:0;
-  margin:0;
+  padding: 0;
+  margin: 0;
 }
-/*this is my comment */
-/*and this is mine*/
 
 .logo {
   top: 0;
   left: 0;
   position: fixed;
-  z-index:1000;
+  z-index: 1000;
   width: 15%;
   height: 50px;
   background-color: #FF0;
 }
 
+/*********** Titlebar ***********/
 .titlebar {
   top: 0;
   right: 0;
@@ -58,7 +57,7 @@
   text-decoration: underline;
 }
 
-
+/*********** Sidebar ***********/
 .sidebar {
   position: absolute;
   top: 50px;
@@ -67,6 +66,7 @@
   background-color: #E00;
 }
 
+/*********** Main ***********/
 .main {
   position: absolute;
   top: 50px;
