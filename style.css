@@ -5,6 +5,10 @@
   margin:0;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 .logo {
   top: 0;
   left: 0;
