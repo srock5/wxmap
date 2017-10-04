@@ -50,6 +50,7 @@ html {
 } */
 
 .titlebar tr {
+  position:fixed;
   vertical-align: middle;
   line-height: 50%;
   padding: 0% 5%;
