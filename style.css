@@ -43,11 +43,11 @@ html {
   line-height: 100%;
 }
 
-.titlebar ul {
+/*.titlebar ul {
   list-style: none;
   margin: 0;
   padding: 0;
-}
+} */
 
 .titlebar li {
   vertical-align: middle;
