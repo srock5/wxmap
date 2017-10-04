@@ -79,7 +79,7 @@ html {
 /*********** Main ***********/
 .main {
   position: absolute;
-  top: 50px;
+  top: 10%;
   right: 0;
   width: 85%;
 }
