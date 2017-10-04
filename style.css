@@ -28,7 +28,7 @@ html {
   height: 50px;
   background-color: #AF0000;
   font-family: 'Cabin', sans-serif;
-  font-size: 12%;
+  font-size: 24px;
   font-weight: 500;
 }
 
@@ -84,6 +84,9 @@ html {
   top: 50px;
   right: 0;
   width: 85%;
+}
+.main h1 {
+  font-size:12px;
 }
 
 /* !!!! Cabin condensed for side bar, cabin for most things, lato for text !!! */
