@@ -39,6 +39,7 @@ html {
 }
 
 .titlebar th {
+  top: 5%;
   vertical-align: middle;
   line-height: 10%;
   font-size: 50%;
