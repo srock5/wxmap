@@ -49,19 +49,19 @@ html {
   padding: 0;
 }
 
-/*.titlebar li {
+.titlebar li {
   vertical-align: middle;
   line-height: 50%;
   padding: 0px 5%;
   /*padding: 0px;
-  margin: 5px 10px;
+  margin: 5px 10px;*/
   display: inline-block;
   border-right-width: 1px;
   border-right-color: black;
   border-right-style: solid;
   border-left-width: 1px;
   border-left-color: black;
-  border-left-style: solid; */
+  border-left-style: solid;
 }
 
 
