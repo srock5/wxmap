@@ -36,7 +36,6 @@ html {
   vertical-align: middle;
   line-height: 50px;
   padding: 0px 5px;
-  color: rgb(255, 255, 255);
 }
 
 .titlebar ul {
@@ -62,6 +61,7 @@ html {
 
 .titlebar a {
   text-decoration: none;
+  color: white;
 }
 
 .titlebar a:hover {
