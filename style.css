@@ -63,6 +63,7 @@ html {
   text-decoration: none;
   color: white;
   text-shadow: black 2px 2px;
+  font-size: 100%;
 }
 
 .titlebar a:hover {
