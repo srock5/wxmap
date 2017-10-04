@@ -39,9 +39,9 @@ html {
 }
 
 .titlebar th {
-  padding: 50%;
   vertical-align: middle;
   line-height: 10%;
+  padding: 0% 50%;
   font-size: 50%;
 }
 
