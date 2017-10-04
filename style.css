@@ -49,7 +49,7 @@ html {
   padding: 0;
 } */
 
-.titlebar li {
+.titlebar tr {
   vertical-align: middle;
   line-height: 50%;
   padding: 0% 5%;
