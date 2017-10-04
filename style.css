@@ -5,19 +5,12 @@
   margin: 0;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 5d948da63329c11d2d7e7d88c2691a3df14d80fd
 html {
   overflow-y: scroll;
 }
 
-<<<<<<< HEAD
-=======
 
 /*********** Logo ***********/
->>>>>>> 5d948da63329c11d2d7e7d88c2691a3df14d80fd
 .logo {
   top: 0;
   left: 0;
@@ -29,9 +22,10 @@ html {
 }
 
 .logo img {
+  position: fixed;
   top: 0;
   height:50px;
-  width: 50px;
+  width: 15%;
 }
 
 .logo p {
@@ -88,7 +82,8 @@ html {
   top: 50px;
   left: 0;
   width: 15%;
-  background-color: #E00;
+  background-color: #707070;
+  color: white;
 }
 
 /*********** Main ***********/
