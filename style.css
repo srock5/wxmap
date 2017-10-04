@@ -15,7 +15,7 @@ html {
   position: fixed;
   z-index: 1000;
   width: 15%;
-  height: 10%;
+  height: 50px;
   background-color: #AF0000;
 }
 
@@ -25,7 +25,7 @@ html {
   right: 0;
   position: fixed;
   width: 85%;
-  height: 10%;
+  height: 50px;
   background-color: #AF0000;
   font-family: 'Cabin', sans-serif;
   font-size: 24px;
@@ -34,7 +34,7 @@ html {
 
 .titlebar th {
   vertical-align: middle;
-  line-height: 10%;
+  line-height: 50px;
   padding: 0px 5px;
 }
 
@@ -72,7 +72,7 @@ html {
 /*********** Sidebar ***********/
 .sidebar {
   position: absolute;
-  top: 10%;
+  top: 50px;
   left: 0;
   width: 15%;
   background-color: #E00;
@@ -81,7 +81,7 @@ html {
 /*********** Main ***********/
 .main {
   position: absolute;
-  top: 10%;
+  top: 50px;
   right: 0;
   width: 85%;
 }
