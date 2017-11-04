@@ -45,18 +45,29 @@ html {
   font-family: 'Cabin', sans-serif;
   font-size: 75%;
   font-weight: 500;
+  overflow: hidden;
 }
 
-.titlebar th {
-  vertical-align: middle;
-  line-height: 50px;
-}
-
-/*.titlebar ul {
+.titlebar ul {
   list-style: none;
   margin: 0;
-  padding: 0;
-} */
+  padding: 0px 5px;
+}
+
+.titlebar li {
+  vertical-align: middle;
+  line-height: 50px;
+  padding: 0px 20px;
+  /*padding: 0px;
+  margin: 5px 10px;*/
+  display: inline-block;
+  border-right-width: 1px;
+  border-right-color: black;
+  border-right-style: solid;
+  border-left-width: 1px;
+  border-left-color: black;
+  border-left-style: solid;
+}
 
 .titlebar tr {
   vertical-align: middle;
